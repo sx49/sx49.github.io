@@ -4,15 +4,22 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi, I'm Stephanie! This site is still a work-in-progress, but eventually I'd
+like for it to be where I can showcase some of my projects and interests.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Some of the things I'm interested in include:
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+- Computer Science and Tech
 
+   I'm a backend person dabbling in the dark arts of the frontend world. I guess we'll have to see how that goes!
 
-[jekyll-organization]: https://github.com/jekyll
+- Games
+
+   I enjoy casual games more than competitive games, so a few of the games I own on Steam include
+   Skyrim, Stardew Valley, GTA V, Drawful, and Rocket League (among many others).
+
+- Mushrooms
+
+   The gourmet kind, mind you! In the future, I plan on starting a mushroom farm/mushroom hunting, but
+   first I'll stick to learning about them in the Mushrooms and Molds class at Cornell. I'll be sure to
+   post about mushrooms on this site because I'm actually in love with them.
